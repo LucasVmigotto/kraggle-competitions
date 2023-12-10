@@ -1,6 +1,6 @@
-# template-datascience
+# Kraggle Competitions
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Repository to store Kraggle Competitions Jupyter Notebooks
 
 ## Project Organization
 
